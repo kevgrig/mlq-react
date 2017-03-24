@@ -22,13 +22,13 @@ class App extends Component {
       results: {
         presence: {
           name: "Presence of Meaning in Life",
-          text: "",
+          text: "How much you feel that your life currently has meaning",
           result: 0,
           max: 35
         },
         search: {
           name: "Search for Meaning in Life",
-          text: "",
+          text: "How much you are striving to find meaning and understanding your life",
           result: 0,
           max: 35
         }
